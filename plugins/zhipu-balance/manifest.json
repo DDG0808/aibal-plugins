@@ -1,0 +1,23 @@
+{
+  "id": "zhipu-balance",
+  "name": "智谱 AI 余额",
+  "version": "1.0.4",
+  "apiVersion": "1.0",
+  "pluginType": "data",
+  "dataType": "balance",
+  "entry": "main.js",
+  "author": "CUK Official",
+  "description": "查询智谱 AI (BigModel) API 余额和配额使用情况，支持多种限额类型",
+  "icon": "Z",
+  "permissions": ["fetch"],
+  "refreshIntervalMs": 300000,
+  "configSchema": {
+    "apiKey": {
+      "type": "string",
+      "required": true,
+      "secret": true,
+      "label": "API Key",
+      "description": "智谱 AI 的 API Key（在 bigmodel.cn 控制台获取）"
+    }
+  }
+}
