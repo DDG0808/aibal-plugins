@@ -4,12 +4,12 @@
 
 ## 插件列表
 
-| 插件 | 版本 | 描述 |状态｜
+| 插件 | 版本 | 描述 |状态
 |------|------|------|------|
-| [Antigravity 配额](plugins/antigravity) | 1.0.0 | 查询 Google Cloud Code 各模型的配额使用情况和重置时间 |正常｜
-| [88Code 订阅余额](plugins/88code-balance) | 1.0.7 | 查询 88Code 订阅套餐的额度使用情况、剩余天数和重置状态 |正常｜
-| [Right.codes 订阅](plugins/right-code) | 1.0.2 | 查询 Right.codes 订阅套餐的配额和过期时间 |停用（cf问题）｜
-| [智谱 AI 余额](plugins/zhipu-balance) | 1.0.4 | 查询智谱 AI (BigModel) API 余额和配额使用情况 |正常｜
+| [Antigravity 配额](plugins/antigravity) | 1.0.0 | 查询 Google Cloud Code 各模型的配额使用情况和重置时间 |正常
+| [88Code 订阅余额](plugins/88code-balance) | 1.0.7 | 查询 88Code 订阅套餐的额度使用情况、剩余天数和重置状态 |正常
+| [Right.codes 订阅](plugins/right-code) | 1.0.2 | 查询 Right.codes 订阅套餐的配额和过期时间 |停用（cf问题）
+| [智谱 AI 余额](plugins/zhipu-balance) | 1.0.4 | 查询智谱 AI (BigModel) API 余额和配额使用情况 |正常
 
 ## 安装插件
 
