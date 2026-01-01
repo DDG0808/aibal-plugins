@@ -49,7 +49,7 @@
       "downloadUrl": "https://raw.githubusercontent.com/DDG0808/aibal-plugins/main/plugins/zhipu-balance"
     },
     {
-      "id": "right-code",
+      "id": "right-code(暂停使用)",
       "name": "Right.codes 订阅",
       "description": "查询 Right.codes 订阅套餐的配额和过期时间",
       "author": "豆豆哥",
